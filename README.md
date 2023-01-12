@@ -1,6 +1,7 @@
 # Sales-Dashboard---power-BI
 
 Task perform in this project
+https://github.com/vinit-borse/Sales-Dashboard-power-BI/blob/main/Denis%20BRD-FRD.docx
 
 Project Link
 https://github.com/vinit-borse/Sales-Dashboard-power-BI/blob/main/sales%20%20project.pbix
